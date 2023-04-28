@@ -1,0 +1,375 @@
+span.dash-sidebar-item {
+  color: #666666 !important;
+  background-color: #d9d9d9 !important;
+}
+
+span.dash-sidebar-item:hover {
+  color: #ffffff !important;
+  background-color: #d9d9d9 !important;
+}
+
+nav.dash-sidebar {
+  background-color: #d9d9d9 !important;
+}
+
+nav div span {
+  color: #666666 !important;
+  background-color: #cccccc !important;
+}
+
+html {
+  background-color: #f3f3f3 !important;
+}
+
+h2.section-title {
+  background-color: transparent !important;
+  color: #666666 !important;
+}
+
+main.dashboard-container.container-fluid {
+  background-color: #f3f3f3 !important;
+}
+
+div.module-item {
+  background-color: #d9d9d9 !important;
+  color: #b7b7b7 !important;
+}
+
+div div h3 {
+  color: #666666 !important;
+  background-color: transparent !important;
+}
+
+div div p {
+  color: #999999 !important;
+}
+
+header.dash-header {
+  background-color: #d9d9d9 !important;
+}
+
+ul li a {
+  color: #666666 !important;
+}
+
+ul li a:hover {
+  color: #ffffff !important;
+}
+
+div.module-header.null {
+  background-color: #d9d9d9 !important;
+}
+
+div.section-content-normal {
+  background-color: #d9d9d9 !important;
+}
+
+div.section-content.m-section-content {
+  color: #d9d9d9 !important;
+  background-color: #d9d9d9 !important;
+}
+
+div div input {
+  background-color: #ffffff !important;
+  color: #666666 !important;
+}
+
+div div label {
+  color: #999999 !important;
+}
+
+div.section-content-header {
+  color: #999999 !important;
+}
+
+div div h1 {
+  color: #666666 !important;
+}
+
+div.module-header-description {
+  color: #999999 !important;
+}
+
+div.section-content {
+  background-color: #d9d9d9;
+}
+
+a.btn.btn-blue {
+  color: #ffffff !important;
+}
+
+div.premiumToggleContainer {
+  background-color: #f3f3f3 !important;
+}
+
+section div span {
+  color: #999999 !important;
+}
+
+div.null.premium-plan.premium-plan-selected {
+  background-color: #d9d9d9 !important;
+}
+
+div.most-popular.premium-plan.null {
+  background-color: #d9d9d9 !important;
+}
+
+div.null.premium-plan.null {
+  background-color: #d9d9d9 !important;
+}
+
+span.premium-plan-tag.mt-2 {
+  color: #ffffff !important;
+}
+
+div.premium-table-item.premium-table-item-plan {
+  color: #999999 !important;
+  background-color: #f3f3f3 !important;
+}
+
+div.premium-table-item {
+  color: #b7b7b7 !important;
+  background-color: #f3f3f3 !important;
+}
+
+div.card-header {
+  background-color: #d9d9d9 !important;
+  color: #b7b7b7 !important;
+}
+
+div div h2 {
+  color: #999999 !important;
+}
+
+div.card-body {
+  background-color: #d9d9d9 !important;
+  color: #999999 !important;
+}
+
+div.null.premium-plan-ultimate.premium-plan-selected {
+  background-color: #ff0000 !important;
+}
+
+div.null.premium-plan-ultimate.null {
+  background-color: #ff0000 !important;
+  
+}
+
+div.most-popular.premium-plan-ultimate.premium-plan-selected {
+  background-color: #ff0000 !important;
+}
+
+span.premium-plan-price {
+  color: #ffffff !important;
+  
+}
+
+div.server-item {
+  background-color: #d9d9d9 !important;
+}
+
+div div span {
+  color: #666666 !important;
+  background-color: #ffffff !important;
+}
+
+h2.text-5xl.mb-3.text-white.font-bold {
+  color: #666666 !important;
+}
+
+p.text-lg.font-semibold.text-white.opacity-75 {
+  color: #999999 !important;
+}
+
+p.text-base.leading-7.text-white {
+  color: #999999 !important;
+}
+
+div.flex.align-center {
+  background-color: #d9d9d9 !important;
+}
+
+div.p-3.xl:!p-[50px].bg-[#2f3136].text-white.rounded-sm.mb-3.hover:cursor-pointer.hover:opacity-75 {
+  background-color: #d9d9d9 !important;
+}
+
+div.text-center.text-red.md:ml-auto {
+  background-color: #d9d9d9 !important;
+}
+
+h3.font-bold.text-md.xl:text-2xl {
+  background-color: #f3f3f3 !important;
+}
+
+.bg-\[\#2f3136\] {
+    --tw-bg-opacity: 1 !important;
+    background-color: rgb(217 217 217/var(--tw-bg-opacity)) !important;
+}
+
+span.dash-sidebar-item.active {
+  color: #ffffff !important;
+}
+
+div.section-content-support {
+  color: #999999 !important;
+  
+}
+
+thead tr th {
+  background-color: #d9d9d9 !important;
+  color: #666666 !important;
+}
+
+tbody tr th {
+  background-color: #d9d9d9 !important;
+  color: #666666 !important;
+}
+
+tbody tr td {
+  background-color: #d9d9d9 !important;
+  color: #434343 !important;
+}
+
+.announcement {
+    margin-top: 25px !important;
+    border-radius: 12px !important;
+    box-shadow: 0 0 40px 0 rgb(94 92 154 / 6%) !important;
+    background-color: #D9D9D9 !important;
+}
+
+form div select {
+  background-color: #b7b7b7 !important;
+}
+
+div.command {
+  background-color: #d9d9d9 !important;
+}
+
+div div select {
+  background-color: #ffffff !important;
+  color: #666666 !important;
+}
+
+div.embed {
+  background-color: #f3f3f3 !important;
+}
+
+textarea.text-area.full-width {
+  background-color: #ffffff !important;
+  color: #666666 !important;
+}
+
+div.null.null.toggle {
+  background-color: #ffffff !important;
+}
+
+div.null.null.toggle.checked {
+  background-color: #ff0000 !important;
+}
+
+div.automod-header {
+  background-color: #d9d9d9 !important;
+}
+
+div.automod-module {
+  background-color: #d9d9d9 !important;
+}
+
+div div h4 {
+  color: #666666 !important;
+}
+
+div.command-edit-content {
+  background-color: #f3f3f3 !important;
+}
+
+div.modal-header {
+  background-color: #f3f3f3 !important;
+}
+
+div.modal-footer {
+  background-color: #f3f3f3 !important;
+}
+
+div.modal-body.command-edit-body {
+  background-color: #f3f3f3 !important;
+}
+
+div div span {
+    color: #666666 !important;
+    background-color: transparent !important;
+}
+
+div.role-adder-dropdown-main {
+  background-color: #d9d9d9 !important;
+  
+}
+
+div div header {
+  background-color: #ffffff !important;
+}
+
+div.role-adder {
+  background-color: #ffffff !important;
+}
+
+button.btn.btn-secondary {
+  color: #666666 !important;
+  
+}
+
+button.btn.btn-primary {
+  color: #666666 !important;
+}
+
+ul li span {
+  background-color: transparent !important;
+}
+
+h3 svg path {
+  color: #666666 !important;
+}
+
+div.role-adder-guild {
+  background-color: #ffffff !important;
+}
+
+div.role-adder-item {
+  background-color: #ffffff !important;
+}
+
+div.role-adder-item:hover {
+  background-color: #f45142 !important;
+}
+
+div.role-adder-dropdown-main {
+    background-color: #ffffff !important;
+}
+
+div.discord-messages {
+  background-color: #ffffff !important;
+  
+}
+
+div.discord-embed-container {
+  background-color: #ffffff !important;
+}
+
+h5.modal-title {
+  color: #434343 !important;
+}
+
+.module-badge {
+	position: absolute !important;
+	top: -10px !important;
+	left: -6px !important;
+	height: 32px !important;
+	padding: 0 14px !important;
+	border-radius: 200px !important;
+	background-color: #f45142 !important;
+	box-shadow: 3px 5px 20px 0 rgb(94 92 154 / 12%) !important;
+	font-size: 0.875rem !important;
+	font-weight: 700 !important;
+	line-height: 32px !important;
+	color: #fff !important;
+}
